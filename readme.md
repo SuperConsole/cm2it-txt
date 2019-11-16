@@ -3,3 +3,4 @@
 \*これ使うには初回コミット時に
 ```$git push -u origin [branch]```
 をやってね！
+# [git_memo](./git_memo.md) 
