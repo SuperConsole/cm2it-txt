@@ -3,7 +3,8 @@
  - user.email: email表示
 
 **$git log**  
- -  過去のコミットを確認したいときに使おう
+ - 過去のコミット確認
+ - --oneline --graph --decorate: 一覧表示
 
 **$git git reset --hard HEAD^**  
  - --hard：ワークディレクトリの内容も書き換え
