@@ -5,6 +5,7 @@
 **$git log**  
  - 過去のコミット確認
  - --oneline --graph --decorate: 一覧表示
+ - 詳細: [git log よく使うオプションまとめ](https://qiita.com/take4s5i/items/15d8648405f4e7ea3039)
 
 **$git git reset --hard HEAD^**  
  - --hard：ワークディレクトリの内容も書き換え
