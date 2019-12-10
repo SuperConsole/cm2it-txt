@@ -20,3 +20,7 @@
 **$git commit --amend**
  - 直前のコミットに上書きできる
  - コミットメッセージの編集やケアレスミス修正にどうぞ
+
+**$git fetch && git reset --hard origin/master**
+ - $git -f pullみたいな挙動
+ - 強制上書きプル
